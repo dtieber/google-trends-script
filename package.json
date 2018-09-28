@@ -1,0 +1,18 @@
+{
+  "name": "adword-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "werner": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.1",
+    "bottleneck": "^2.11.1",
+    "csv-parse": "^3.0.0",
+    "google-trends-api": "^4.7.0"
+  }
+}
